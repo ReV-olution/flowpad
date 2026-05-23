@@ -1,0 +1,17 @@
+{
+  "name": "FlowPad Planificador ADHD",
+  "short_name": "FlowPad",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f18",
+  "theme-color": "#0f0f18",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774853.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
